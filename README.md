@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ashin sabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashin sabu" height="30" width="40" /></a>
 <a href="https://instagram.com/_ashinsabu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ashinsabu_" height="30" width="40" /></a>
-<a href="https://medium.com/@ashin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ashin" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
